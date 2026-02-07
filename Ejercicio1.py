@@ -47,7 +47,6 @@ for venta in ventas:
 print("Ingresos por mes:", ingresos_mes)
 
 
-# 4. Empleado con mayores ingresos
 mayor_empleado = ""
 mayor_ingreso = 0
 
